@@ -27,3 +27,7 @@ Content-Type: application/json
   "lastName": "Goldman",
   "speciality": "Pneumologist"
 }
+
+###
+#main route test
+http://localhost:3000/  HTTP/1.1
